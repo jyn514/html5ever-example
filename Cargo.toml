@@ -7,4 +7,5 @@ edition = "2018"
 [dependencies]
 # change this to any version you like
 html5ever = "0.24"
+kuchiki = "0.8.0"
 failure = "0.1"
